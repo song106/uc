@@ -1,0 +1,2 @@
+# uc
+test go program
