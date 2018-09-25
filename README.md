@@ -1,2 +1,3 @@
-# uc
-test go program
+# test go first 
+
+add go project to github
